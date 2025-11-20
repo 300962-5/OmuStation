@@ -15627,7 +15627,7 @@ Entries:
     - type: Tweak
       message: >-
         Shadowkin blood now renders like other blood types (blood, spider blood,
-        slime) when in puddles 
+        slime) when in puddles
     - type: Fix
       message: Shadowkin blood now can activate Blood nodes on artifacts
   id: 1754
@@ -16491,7 +16491,7 @@ Entries:
     - type: Add
       message: >-
         Interaction Verbs from Einstein Engines. GoobMRP folk: This brings back
-        the 'Interact' dropdown in the context menu. 
+        the 'Interact' dropdown in the context menu.
     - type: Tweak
       message: Interaction Verb 'Look At' changed to 'Stare' for impact
   id: 1852
@@ -16790,7 +16790,7 @@ Entries:
     - type: Add
       message: >-
         Loneops can now buy the sandevistan at an increased price. “Bout Time I
-        Chrome The F Up.” 
+        Chrome The F Up.”
   id: 1884
   time: '2025-10-25T16:07:41.0000000+00:00'
 - author: loltart
@@ -16804,7 +16804,7 @@ Entries:
     - type: Add
       message: >-
         Added dart monkeys which throw darts at balloons. They are purchasable
-        from cargo. 
+        from cargo.
   id: 1886
   time: '2025-10-25T16:09:23.0000000+00:00'
 - author: Armok
@@ -16983,7 +16983,7 @@ Entries:
     - type: Tweak
       message: >-
         Changed icons of everything in the station category to be more
-        appealing. 
+        appealing.
   id: 1908
   time: '2025-10-27T12:23:51.0000000+00:00'
 - author: Fishbait
@@ -17795,7 +17795,7 @@ Entries:
     - type: Tweak
       message: >-
         Barozine will now last twice as long! This means space medipens will
-        protect you from pressure damage for twice as long. 
+        protect you from pressure damage for twice as long.
     - type: Tweak
       message: >-
         Space Medipens now have more leproazine in them, this means they'll give
@@ -18060,3 +18060,17 @@ Entries:
         hermit.
   id: 2039
   time: '2025-11-19T07:34:12.0000000+00:00'
+- author: Richard Blonski
+  changes:
+    - type: Remove
+      message: >-
+        Removed: Midround options of Changlings/Heretics/Devil, they will
+        instead roll using the existing preferences.
+  id: 2040
+  time: '2025-11-20T13:11:56.0000000+00:00'
+- author: Aviu00
+  changes:
+    - type: Fix
+      message: Ominous armor is magical contra instead of sec restricted.
+  id: 2041
+  time: '2025-11-20T14:37:40.0000000+00:00'
