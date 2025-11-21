@@ -1169,3 +1169,11 @@ Entries:
       message: NTR handheld fax squished from 4x4 to 4x2
   id: 137
   time: '2025-11-18T17:33:02.0000000+00:00'
+- author: GNUtopia
+  changes:
+    - type: Fix
+      message: >-
+        Duty weapons and selector cases are now properly classified as
+        contraband
+  id: 138
+  time: '2025-11-21T18:28:29.0000000+00:00'
