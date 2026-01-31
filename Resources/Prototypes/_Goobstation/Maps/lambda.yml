@@ -141,7 +141,7 @@
             #supply
             Quartermaster: [ 1, 1 ]
             SalvageSpecialist: [ 4, 4 ]
-            ShaftMiner: [ 4, 4 ]
+            #ShaftMiner: [ 4, 4 ] # Omu, needs mapping
             CargoTechnician: [ 4, 6 ]
             #civillian
             Passenger: [ -1, -1 ]
