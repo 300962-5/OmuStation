@@ -1927,3 +1927,9 @@ Entries:
       message: Ported Breaching charges and the Breaching hammer from EE.
   id: 241
   time: '2026-02-09T19:24:46.0000000+00:00'
+- author: maertayn
+  changes:
+    - type: Add
+      message: ViroHuds to NanoMed+ and ViroDrobe
+  id: 242
+  time: '2026-02-09T21:11:15.0000000+00:00'
