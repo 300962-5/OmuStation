@@ -1959,3 +1959,13 @@ Entries:
         fits in bags.
   id: 246
   time: '2026-02-15T21:09:42.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Add
+      message: Ported Heavy Ballistic turrets from Monolith.
+    - type: Tweak
+      message: >-
+        Changed the ballistic turrets on the lavaland syndicate base to be heavy
+        ballistic turrets.
+  id: 247
+  time: '2026-02-15T21:30:09.0000000+00:00'
