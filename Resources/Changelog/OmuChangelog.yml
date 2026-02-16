@@ -1991,3 +1991,24 @@ Entries:
       message: Some organs now contra
   id: 250
   time: '2026-02-16T14:43:47.0000000+00:00'
+- author: BramvanZijp
+  changes:
+    - type: Add
+      message: >-
+        The blueshield officer's headset now comes with a custom encryption key,
+        losing the prison channel but gaining the medical channel.
+    - type: Tweak
+      message: >-
+        The greatshield and atrocity have both regained the ability to
+        self-recharge their power over time.
+    - type: Tweak
+      message: >-
+        The Praetorian Modsuit Chestplate has had its stamina damage resistance
+        raised from 10% to 40%.
+    - type: Fix
+      message: >-
+        The Blueshield Officer has been added to several multi-department
+        contraband groups that contain security, including those for the combat
+        gloves and jackboots they can spawn with.
+  id: 251
+  time: '2026-02-16T19:25:30.0000000+00:00'
