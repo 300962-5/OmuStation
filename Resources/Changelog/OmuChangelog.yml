@@ -1979,3 +1979,9 @@ Entries:
         has negative AP.
   id: 248
   time: '2026-02-16T07:21:28.0000000+00:00'
+- author: Giltsmith
+  changes:
+    - type: Tweak
+      message: Made Ward shotgun selfcharge again.
+  id: 249
+  time: '2026-02-16T11:36:02.0000000+00:00'
