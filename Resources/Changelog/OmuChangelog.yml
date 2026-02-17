@@ -2018,3 +2018,9 @@ Entries:
       message: Salvage Mantle-beast Mantle on Shaft-Miner
   id: 252
   time: '2026-02-17T08:51:47.0000000+00:00'
+- author: nnif1
+  changes:
+    - type: Remove
+      message: Present anoms
+  id: 253
+  time: '2026-02-17T19:35:51.0000000+00:00'
